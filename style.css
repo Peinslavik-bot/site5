@@ -1,0 +1,53 @@
+body {
+    background-color:#87CEFA;
+}
+
+header img {
+    width:75px ;
+    height: 75px;
+}
+header {
+    background:#9400D3;
+    font-size:20px;
+}
+
+nav {
+    margin: 40px;
+    text-align: center;
+}
+
+nav a {
+    border: 3px solid darkorchid;
+    border-radius:20px ;
+    text-decoration:none ;
+    color: darkorchid;
+    margin: 15px;
+    padding: 4px;
+}
+
+h1 {
+    text-align: center;
+}
+
+main p {
+    text-align: center;
+}
+
+main h2 {
+    text-align: center;
+}
+
+footer h2 {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    background-color: black;
+}
+
+h2 img {
+    width: 150px;
+    height: 150px;
+}
